@@ -88,8 +88,8 @@ const joaozinho = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alxzyc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -102,9 +102,9 @@ const joaozinho = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-alves-lacerda-de-jesus-69a06b3b8)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alxfwxk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro1083alves@gmail.com)
 
 </div>
 
@@ -114,6 +114,6 @@ const joaozinho = {
 
 ### 💬 *"Todo expert já foi um iniciante. Todo profissional já foi um amador."*
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=flat-square&label=Visitantes+no+perfil" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=alxzyc&color=6C63FF&style=flat-square&label=Visitantes+no+perfil" alt="profile views"/>
 
 </div>
