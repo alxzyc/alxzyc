@@ -28,18 +28,26 @@
 
 ## 🧑‍💻 Sobre mim
 
-```typescript
-const joaozinho = {
+const joaoPedro = {
   formacao: {
-    graduacao: "Bacharelado em Ciências da Computação",
-    instituicao: "UNIP — Universidade Paulista",
-    cursos: ["Programação pela Code.org", "Lógica de Programação"],
+    graduacao: "Bacharelado em Ciência da Computação",
+    instituicao: "UNIP - Universidade Paulista",
+    cursos: [
+      "Programação pela Code.org",
+      "Lógica de Programação",
+    ],
   },
-  foco: ["Desenvolvimento Web", "Front-End", "Jogos com LuaU"],
+
+  foco: [
+    "Desenvolvimento Web",
+    "Front-End",
+    "Desenvolvimento de Jogos com LuaU",
+  ],
+
   atualmente: "Aprendendo Python 🐍",
+
   filosofia: "Código limpo é código que conta uma história.",
 };
-```
 
 <br clear="right"/>
 
@@ -95,7 +103,7 @@ const joaozinho = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxzyc&theme=tokyonight" alt="streak"/>
 </div>
 
 ---
