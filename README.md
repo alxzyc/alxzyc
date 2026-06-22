@@ -29,6 +29,7 @@
 ## 🧑‍💻 Sobre mim
 
 ```typescript
+
 const joaoPedro = {
   formacao: {
     graduacao: "Bacharelado em Ciência da Computação",
