@@ -125,6 +125,8 @@ const joaoPedro = {
 
 ### 💬 *"Todo expert já foi um iniciante. Todo profissional já foi um amador."*
 
+meu portifolio: href="https://alvzdev-port.vercel.app/"
+
 <img src="https://komarev.com/ghpvc/?username=alxzyc&color=6C63FF&style=flat-square&label=Visitantes+no+perfil" alt="profile views"/>
 
 </div>
