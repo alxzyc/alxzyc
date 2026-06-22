@@ -28,6 +28,7 @@
 
 ## 🧑‍💻 Sobre mim
 
+```typescript
 const joaoPedro = {
   formacao: {
     graduacao: "Bacharelado em Ciência da Computação",
@@ -48,8 +49,7 @@ const joaoPedro = {
 
   filosofia: "Código limpo é código que conta uma história.",
 };
-
-<br clear="right"/>
+```
 
 ---
 
