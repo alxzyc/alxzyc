@@ -1,19 +1,19 @@
 <div align="center">
 
 ``` 
-                                                            ██╗ ██████╗  █████╗  ██████╗ 
-                                                            ██║██╔═══██╗██╔══██╗██╔═══██╗
-                                                            ██║██║   ██║███████║██║   ██║
-                                                       ██   ██║██║   ██║██╔══██║██║   ██║
-                                                       ╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
-                                                        ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
+                                            ██╗ ██████╗  █████╗  ██████╗ 
+                                            ██║██╔═══██╗██╔══██╗██╔═══██╗
+                                            ██║██║   ██║███████║██║   ██║
+                                       ██   ██║██║   ██║██╔══██║██║   ██║
+                                       ╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
+                                        ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
 </div>
 
 <div align="center">
 
-# Olá, eu sou o **Joaozinho** 👋
+# Olá, eu sou o **Joao** 👋
 ### Estudante de Ciências da Computação · Dev Web · Aprendiz Eterno
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Curioso+por+natureza+%F0%9F%94%8D;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
