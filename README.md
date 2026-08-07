@@ -18,7 +18,7 @@
 # Olá, eu sou o **alxzyc** 👋
 ### FULL STACK DEVELOPER
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+A%D3%S%;%F0%9F%94%8D;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+ADS;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
