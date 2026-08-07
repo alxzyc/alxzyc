@@ -16,9 +16,9 @@
 <div align="center">
 
 # Olá, eu sou o **alxzyc** 👋
-### Estudante de Ciências da Computação · Dev Web · Aprendiz Eterno
+### FULL STACK DEVELOPER
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Curioso+por+natureza+%F0%9F%94%8D;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+A%D3%S%;%F0%9F%94%8D;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,8 +32,8 @@
 
 const joaoPedro = {
   formacao: {
-    graduacao: "Bacharelado em Ciência da Computação",
-    instituicao: "UNIP - Universidade Paulista",
+    graduacao: "Bacharelado em Analise e Desenvolvimento de Sistemas",
+    instituicao: "Estacio",
     cursos: [
       "Programação pela Code.org",
       "Lógica de Programação",
