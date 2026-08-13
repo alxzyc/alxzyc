@@ -8,7 +8,7 @@
 ╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
  ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 
- WEB DEVELOPER 
+ FULL-STACK DEVELOPER
 </pre>
 
 </div>
@@ -80,10 +80,10 @@ const joaoPedro = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_UNIP-Ciências_da_Computação-6C63FF?style=for-the-badge" alt="UNIP"/>
+      <img src="https://img.shields.io/badge/🎓_ADS-ESTACIO-6C63FF?style=for-the-badge" alt="ESTACIO"/>
       <br/><br/>
-      <strong>Bacharelado em Ciências da Computação</strong><br/>
-      <sub>Universidade Paulista · Em andamento</sub>
+      <strong>Bacharelado em Analise e Desenvolvimento de Sistemas</strong><br/>
+      <sub>Estacio · Em andamento</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/💻_Code.org-Programação_&_Lógica-00BCD4?style=for-the-badge" alt="Code.org"/>
