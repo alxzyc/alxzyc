@@ -12,7 +12,9 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código.;Desenvolvimento+Web+e+Full+Stack.;Criando+experiências+com+Luau.;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
+  
 </a>
 
 </div>
@@ -58,8 +60,6 @@ Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologi
 ### 📚 Em aprendizado
 
 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java e Spring Boot" />
-<img src="https://img.shields.io/badge/Hardware-6C63FF?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" />
-
 </div>
 
 ---
