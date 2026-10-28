@@ -29,13 +29,21 @@ Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologi
 
 <div align="center">Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="HTML, CSS, JavaScript, TypeScript, React e Vite" />Backend e banco de dados
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="HTML, CSS, JavaScript, TypeScript, React e Vite" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase" alt="Node.js e Supabase" />Game Development
+Backend e banco de dados
 
-<img src="https://skillicons.dev/icons?i=lua,robloxstudio" alt="Lua e Roblox Studio" />Ferramentas
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" alt="Node.js e Supabase" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />Atualmente aprendendo
+Game Development
+
+<img src="https://skillicons.dev/icons?i=lua,robloxstudio" alt="Lua e Roblox Studio" />
+
+Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
+
+Atualmente aprendendo
 
 <img src="https://skillicons.dev/icons?i=python" alt="Python" /></div>---
 
@@ -58,7 +66,9 @@ USERNAME e REPOSITORY pelos dados reais do projeto.
 
 📊 GitHub Analytics
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=alxzyc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" /><br/><br/>
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=alxzyc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" /><br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com/?user=alxzyc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" /></div>---
 
