@@ -1,132 +1,80 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=alxzyc&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Game%20Developer&descAlignY=60&descSize=17" width="100%" /><a href="https://alvzdev-port.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-6C63FF?style=for-the-badge" alt="Meu portfólio" />
+</a>
+<a href="https://github.com/alxzyc">
+  <img src="https://img.shields.io/badge/GitHub-alxzyc-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código.;Desenvolvimento+Web+e+Full+Stack.;Criando+experiências+com+LuaU.;Sempre+aprendendo%2C+sempre+construindo.)" (https://git.io/typing-svg)
 
-<pre>
-     ██╗ ██████╗  █████╗  ██████╗
-     ██║██╔═══██╗██╔══██╗██╔═══██╗
-     ██║██║   ██║███████║██║   ██║
-██   ██║██║   ██║██╔══██║██║   ██║
-╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
- ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+</div>---
 
- FULL-STACK DEVELOPER
-</pre>
+👨‍💻 Sobre mim
 
-</div>
+Olá! Sou alxzyc, desenvolvedor apaixonado por tecnologia, programação e criação de projetos digitais.
 
-<div align="center">
+Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologias e entender como as coisas funcionam por trás do código.
 
-# Olá, eu sou o **alxzyc** 👋
-### FULL STACK DEVELOPER
+- 🚀 Foco: desenvolvimento web e criação de aplicações.
+- 🧩 Também desenvolvo: sistemas e jogos com LuaU para Roblox.
+- 🌱 Atualmente aprendendo: Python e aprimorando minhas habilidades de desenvolvimento.
+- 🛠️ Interesses: interfaces, APIs, bancos de dados, automação e ferramentas para desenvolvedores.
+- 🎯 Objetivo: evoluir constantemente e construir projetos úteis, bem estruturados e com personalidade.
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Front-End;Estudante+de+ADS;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+«💡 Acredito que programar vai além de escrever código: é encontrar soluções para problemas reais.»
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+🧰 Tecnologias e ferramentas
 
-## 💻 Sobre mim
+<div align="center">Desenvolvimento Web
 
-```typescript
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs" alt="Tecnologias de desenvolvimento web" />Bancos de dados e ferramentas
 
-const joaoPedro = {
-  formacao: {
-    graduacao: "Bacharelado em Analise e Desenvolvimento de Sistemas",
-    instituicao: "Estacio",
-    cursos: [
-      "Programação pela Code.org",
-      "Lógica de Programação",
-    ],
-  },
+<img src="https://skillicons.dev/icons?i=supabase,git,github,vscode" alt="Bancos de dados e ferramentas" />Game Development
 
-  foco: [
-    "Desenvolvimento Web",
-    "Front-End",
-    "Desenvolvimento de Jogos com LuaU",
-  ],
+<img src="https://skillicons.dev/icons?i=lua,robloxstudio" alt="Desenvolvimento de jogos" />Em aprendizado
 
-  atualmente: "Aprendendo Python 🐍",
+<img src="https://skillicons.dev/icons?i=python" alt="Python" /></div>---
 
-  filosofia: "Código limpo é código que conta uma história.",
-};
-```
+🚀 Projetos em destaque
 
----
+<div align="center"><a href="https://alvzdev-port.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfólio-Confira_meus_projetos-6C63FF?style=for-the-badge" alt="Confira meu portfólio" />
+</a></div>Confira meu "portfólio pessoal" (https://alvzdev-port.vercel.app/) para conhecer meus projetos e experiências.
 
-## 🚀 Tech Stack
+<!--
+Adicione aqui seus repositórios mais importantes usando os cards abaixo.
+Substitua USER e REPOSITORY pelos dados reais de cada projeto.
 
-<div align="center">
+<a href="https://github.com/USER/REPOSITORY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=REPOSITORY&theme=tokyonight&hide_border=true" />
+</a>
+-->---
 
-### 💪 Domino
+📊 GitHub Analytics
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Programação_Web-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)
-![LuaU](https://img.shields.io/badge/LuaU-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=alxzyc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" /><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alxzyc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" /></div>---
 
-### 📚 Aprendendo
+🎓 Formação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+- 🎓 Análise e Desenvolvimento de Sistemas — Estácio (em andamento)
+- 💻 Programação e lógica de programação — Code.org
 
 ---
 
-## 🎓 Formação
+🌐 Vamos nos conectar?
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_ADS-ESTACIO-6C63FF?style=for-the-badge" alt="ESTACIO"/>
-      <br/><br/>
-      <strong>Bacharelado em Analise e Desenvolvimento de Sistemas</strong><br/>
-      <sub>Estacio · Em andamento</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/💻_Code.org-Programação_&_Lógica-00BCD4?style=for-the-badge" alt="Code.org"/>
-      <br/><br/>
-      <strong>Programação e Lógica de Programação</strong><br/>
-      <sub>Code.org · Concluído</sub>
-    </td>
-  </tr>
-</table>
+<div align="center"><a href="https://linkedin.com/in/joão-pedro-alves-lacerda-de-jesus-69a06b3b8">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/alxfwxk">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:joaopedro1083alves@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a><br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=alxzyc&color=6C63FF&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil" /><br/><br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxzyc&theme=tokyonight" alt="streak"/>
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-alves-lacerda-de-jesus-69a06b3b8)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alxfwxk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro1083alves@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"Todo expert já foi um iniciante. Todo profissional já foi um amador."*
-
-meu portifolio: https://alvzdev-port.vercel.app/
-
-<img src="https://komarev.com/ghpvc/?username=alxzyc&color=6C63FF&style=flat-square&label=Visitantes+no+perfil" alt="profile views"/>
+"Grandes projetos começam com curiosidade, consistência e algumas linhas de código."
 
 </div>
