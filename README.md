@@ -88,8 +88,9 @@ Substitua USER e REPOSITORY pelos dados reais de cada projeto.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alxzyc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzyc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+<!-- Cards gerados pelo workflow .github/workflows/profile-summary-cards.yml -->
+<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais utilizadas" />
 
 <br/>
 
