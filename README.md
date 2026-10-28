@@ -11,11 +11,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código.;Desenvolvimento+Web+e+Full+Stack.;Criando+experiências+com+Luau.;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
-  
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo.;Desenvolvimento+Web+e+Full+Stack.;Criando+experi%C3%AAncias+com+Luau.;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +25,7 @@ Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologi
 
 - 🚀 **Foco:** desenvolvimento web e criação de aplicações.
 - 🧩 **Também desenvolvo:** sistemas e jogos com Luau para Roblox.
-- 🌱 **Atualmente aprendendo:** Java, Spring Boot e hardware.
+- 🌱 **Atualmente aprendendo:** Java, Spring Boot e hardware com Arduino.
 - 🛠️ **Interesses:** interfaces, APIs, bancos de dados, automação e ferramentas para desenvolvedores.
 - 🎯 **Objetivo:** evoluir constantemente e construir projetos úteis, bem estruturados e com personalidade.
 
@@ -59,7 +55,8 @@ Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologi
 
 ### 📚 Em aprendizado
 
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Java e Spring Boot" />
+<img src="https://skillicons.dev/icons?i=java,spring,arduino" alt="Java, Spring Boot e Arduino" />
+
 </div>
 
 ---
@@ -96,7 +93,7 @@ Substitua USER e REPOSITORY pelos dados reais de cada projeto.
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alxzyc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=alxzyc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
 
